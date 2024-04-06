@@ -1,3 +1,5 @@
 .vs/
 **/bin/
 **/obj/
+**/userData.db-shm
+**/userData.db-wal
